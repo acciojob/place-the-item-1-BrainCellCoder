@@ -1,2 +1,19 @@
-
+.holder{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.box{
+	width: 100px;
+	height: 100px;
+}
+.three{
+	background-color: green;
+}
+.one{
+	background-color: red;
+}
+.two{
+	background-color: blue
+}
 /* Your CSS Code here. */
